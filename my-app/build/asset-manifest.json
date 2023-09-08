@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Curio-Voice-Controller/static/css/main.27d3b982.css",
+    "main.js": "/Curio-Voice-Controller/static/js/main.9e59edbb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Curio-Voice-Controller/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Curio-Voice-Controller/index.html",
+    "main.27d3b982.css.map": "/Curio-Voice-Controller/static/css/main.27d3b982.css.map",
+    "main.9e59edbb.js.map": "/Curio-Voice-Controller/static/js/main.9e59edbb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Curio-Voice-Controller/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d3b982.css",
+    "static/js/main.9e59edbb.js"
+  ]
+}
