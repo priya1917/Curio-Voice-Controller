@@ -1,5 +1,5 @@
 {"name":"my-app",
-"homepage": "https://priya1917.github.io/Curio-Voice-Controller/",
+// "homepage": "https://priya1917.github.io/Curio-Voice-Controller/",
 "version":"0.1.0",
 "private":true,
 "dependencies":{
